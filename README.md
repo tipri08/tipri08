@@ -1,1 +1,3 @@
-# readme.md
+<h1 align="center">tipri08</h1>
+
+Hi, I'm tipri08. I'm interested in computers, operating systems, and Linux.
